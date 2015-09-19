@@ -2,7 +2,7 @@
 
 Well, the name says all. Yet another College font. 
 
-I designed this font in June 2015 just for fun playing with [Type 3.2](cr8software.net) from [cr8software](cr8software.net).
+I designed this font in June 2015 just for fun to learn [Type 3.2](cr8software.net) from [cr8software](cr8software.net).
 
 ## License and Usage
 
