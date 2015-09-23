@@ -8,7 +8,7 @@ I designed this font in June 2015 just for fun to learn [Type 3.2](cr8software.n
 
 I'd be happy if you drop me a note at martin@seventy2eleven.de if you use this font, but you don't have to.
 
-The font is published using the SIL Open Font License v1.1. Please see *license.txt* for licensing details.
+The font is published using the SIL Open Font License v1.1. Please see *license.md* for licensing details.
 
 ## Contact
 
